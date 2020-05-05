@@ -1,0 +1,21 @@
+{
+  "name": "react-native-android-dock",
+  "version": "1.0.0",
+  "description": "Helper for user to android devices",
+  "main": "index.ts",
+  "repository": {
+    "url": "https://github.com/lineuxyz/react-native-android-dock",
+    "type": "git"
+  },
+  "keywords": ["react-native", "android", "stylesheet"],
+  "author": "Lineu Pastorelli",
+  "license": "MIT",
+  "private": false,
+  "bugs": {
+    "url": "https://github.com/lineuxyz/react-native-android-dock/issues"
+  },
+  "homepage": "https://github.com/lineuxyz/react-native-android-dock#readme", 
+  "peerDependencies": {
+    "react-native": ">=0.49.0"
+  }
+}
